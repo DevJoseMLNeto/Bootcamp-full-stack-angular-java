@@ -1,0 +1,4 @@
+class CardNews exstends HTMLElement{ //CardNews está herdando o DOM
+
+
+}
